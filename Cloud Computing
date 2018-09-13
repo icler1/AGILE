@@ -1,0 +1,153 @@
+System Analyses and Design
+
+
+Assignment Title: Model a Video Rental Machine
+Project
+The customer will purchase the film on the machine what is an online service. The
+system has to support few people renting the same film from different parts of the
+country. The customer needs to have an account,
+Movie
+
+
+
+
+
+
+
+Author/Director
+Movie DVD list
+Movie Blue-ray list
+Movie Rental Fee €3 a day
+Rental Day
+Return Day
+Checkout
+Customer Account
+
+
+
+
+Name
+Address
+Mobile
+Database
+Oder
+
+
+
+
+
+Movie Purchase Order
+Search type
+Results
+Movie store cart
+Wish Movie List
+Payment
+
+
+Extra charge € 3
+Credit Card
+A problem description that details exactly what problem this software system
+will solve
+The video rental shop has a lot of movies to build a database. The movie store
+allocated in a different place and each branch has a problem with long queues at the
+counters.The machines will allow the stores reduce the queue. The staff will not have
+disturbed as the machine got all the products and the information to supply the client
+needs'.
+The system can distinguish the movies and if they are on DVD or Blu-ray.
+Full description of the requirements for the proposed system
+The software will allow the customer is getting movies without delay.
+The attendants will no long to be overlooked after a large amount of order.
+The movie store machine most is able renting any movie, with the order confirmed
+over the machine.
+The customer must be able adding movies, paying and checking out.
+The customer can add and remove movies from the list.
+The payment must be by credit card.
+The customer must be able creating a personal account so that the database stores
+the user name, address, credit card details when logged in.
+The system should be able to keep a list of customer's accounts.
+The customer password should be the as the stored in the database.
+The system should have search methods, title, director, keyword, category, and
+actors.
+The system should identify the store in case.2 - Use case diagrams1 Class diagram
+1 Sequence diagram1 set of CRC cards
+1- research question
+"Software systems can start off simple and quickly grow to be quite complex
+and therefore when developing a computer system, the developer will often be
+dealing with a certain amount of complexity. Explain (in your words) how
+modelling techniques manage complexity in the development of computer-
+based systems. Your answer should include a description of how models can
+support software developers who are striving to understand the complexity of
+the systems that they are developing. Be sure to include factors that typically
+used to deal with complexity when analysing a system during the UML
+modelling process".According to IBM (2014), a modelling technique is an abstraction and uses that for
+describing a real system or project. In reality, the modelling is not detailed as the system is.
+As an example, we can take a drawing of a house. When we see the drawing, we can say
+that is a house, but technically it is a "drawing of a house", is missing many details of a real
+house.
+This house has a window and door, but they are close
+to each other, different than the real house. In that
+case, the drawer chose to lose in details, but the
+conception and idea still clear. Any person can guess
+what the drawing is. It is an abstraction of a house.
+Using the Systems Modeling Language, the process is almost the same, but we can use
+more details, for example, add features and be more consistent.
+When we use the System Modelling Language, it is more abstract than the drawing. A
+diagram well explains the relationship between the window and the door. On the other hand,
+the sketch does not show two windows. The diagram is not clear if it represents a house. We
+need to pay attention to what is in the diagram.
+The Modelling complex applications bring benefices such as:
+
+
+
+Better understand the software situation at hand "as-is" model, "to-be model".
+Helps to build and plan system architecture.
+To create a better view of the code and others implementations.IBM, 2004, says that Modelling can provide architects and others making possible the
+visualisation of the entire system, we can work with different designs previous to taking on
+the risks. The models can be physical, same as the mock-up of the house above or it can be
+less tangible like an electrical circuit diagram.
+The model is not necessary when the project is, and we identify characteristics such as:
+
+
+
+We can identify problem domain clearly
+The solution is not difficult to construct
+Only a few people are needed to build the project
+If the project is complex, we need architects and others to build visualisation on the entire
+system before start its construction. Nowadays, the software systems seem more complex.
+The high-risk system is also modelled the software to handle the complexity to make an
+easy design and linked risks. We can start by modelling:
+
+
+
+Make and communicate software designs and add resources only after
+Follow and consult the design while is building the system
+Can work with high level of abstraction and make frequent changesReferences list:
+IBM,
+2014
+https://www.ibm.com/developerworks/community/blogs/invisiblethread/entry/using_m
+odels_to_manage_complexity_you_re_doing_it_right_now?lang=en
+(Accessed
+14/03/2017)
+IBM, The Value of Modelling, 2004
+Vytautas Štuikys, Roberts Damaševičius Meta-Programming and model-Driven
+Meta-program
+Development
+https://books.google.ie/books?id=B85FcaE9YdgC&pg=PA209&dq=modeling+techni
+ques+manage+complexity+in+programming&hl=en&sa=X&redir_esc=y#v=onepage
+&q=modeling%20techniques%20manage%20complexity%20in%20programming&f=f
+alse(Accessed 14/03/2017)
+Vasudevan, Shobha, 2007, United States"High-Level Static Analysis of System
+Descriptions for Taming Verification …
+"https://books.google.ie/books?id=vACPmpnWshQC&pg=PA16&dq=high-
+level+description&hl=en&sa=X&ved=0ahUKEwia59zL5dbSAhXkI8AKHSokDbwQ6A
+EIGTAA#v=onepage&q=high-level%20description&f=false(Accessed 14/03/2017)
+Use
+case
+Modelling,
+Kurt
+Bitter,
+Ian
+Spence
+https://books.google.ie/books?id=zvxfXvEcQjUC&pg=PA28&dq=use+case+diagram
+&hl=en&sa=X&ved=0ahUKEwj8nL336NbSAhVMDcAKHR5hDjsQ6AEIGzAA#v=one
+page&q=use%20case%20diagram&f=false(Accessed 14/03/2017)
